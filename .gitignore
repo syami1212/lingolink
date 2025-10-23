@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Environments
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Cache and models
+huggingface/
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+*.h5
+.cache/
+datasets/
+
+# Node / system
+.DS_Store
+.idea/
+.vscode/
